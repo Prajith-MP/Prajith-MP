@@ -18,7 +18,7 @@
 ---
 
 ### 🌟 **Key Projects**
-1. **Investment Insights Dashboard in Power BI:**  
+1. [**Investment Insights Dashboard in Power BI:**](https://github.com/Prajith-MP/Power-BI-Insights)
    - Built a Power BI dashboard analyzing sales performance, customer segmentation, and profitability.  
    - Used SQL and DAX for data preparation and dynamic insights.
    - Created an intuitive Power BI dashboard analyzing investment trends, preferences, and behaviors, enabling data-driven decision-making.   
